@@ -1,0 +1,6 @@
+{
+  "name": "PHP & SQL Web IDE",
+  "description": "Multi-file and folder code editor with real PHP execution, file explorer, and integrated SQLite database system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
